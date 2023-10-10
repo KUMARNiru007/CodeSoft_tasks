@@ -1,5 +1,5 @@
 # CodeSoft_tasks
-landing page : file:///C:/landing%20page/landing%20page%20copy.html
+landing page :file:///C:/Users/User/Desktop/Landing%20page/index.html
 
 portfolio :file:///C:/Users/User/Desktop/portfolio/poert2.html
 
